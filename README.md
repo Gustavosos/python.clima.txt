@@ -1,0 +1,2 @@
+# python.clima.txt
+projeto 
